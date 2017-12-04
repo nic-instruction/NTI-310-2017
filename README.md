@@ -1,6 +1,6 @@
-http://uni.xkcd.com (Links to an external site.)Links to an external site.
+NTI-310
 
-(click on it!)
+http://uni.xkcd.com (click on it!)
 
 
 
