@@ -27,3 +27,6 @@ shadow:         compat ldap
 
    
    ```
+restart nscd: `/etc/init.d/nscd restart`
+
+* to test: `getent passwd`
