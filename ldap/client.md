@@ -31,3 +31,5 @@ restart nscd: `/etc/init.d/nscd restart`
 
 * to test: `getent passwd` you'll see your ldap users and your local users in the output.
 * enable password login for your user: `vi /etc/ssh/sshd_config` and change `PasswordAuthentication no` to `PasswordAuthentication yes`
+
+* `/etc/init.d/ssh restart`
