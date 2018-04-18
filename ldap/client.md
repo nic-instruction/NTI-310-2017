@@ -4,7 +4,7 @@
  apt-get --yes install libpam-ldap nscd
  ```
  
-   * change ldapi/// to ldap// and put in the private ip of your ldap server: ldap//10.142.0.9
+   * change ldapi:/// to ldap:// and put in the private ip of your ldap server: ldap://10.142.0.9
    * dc=nti310,dc=local
    * version 3
    * Make local root datbase: No
